@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BLOGTRACKERS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">Search</string>
+    <string name="profile_name">Hayder Al Rubaye</string>
+    <string name="profile_email">hkalrubaye@ualr.edu</string>
+    <string name="title_blogs">BLOGS</string>
+    <string name="title_trackers">TRACKERS</string>
+    <string name="title_settings">SETTINGS</string>
+
+    <string name="title_item_detail">Item Detail</string>
+</resources>
