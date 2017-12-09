@@ -8,7 +8,7 @@ import java.util.Map;
  * Created by haydex on 12/8/17.
  */
 
-public class Model {
+public class BlogModel {
 
 
     public static final ArrayList<BlogItem> BLOGS = new ArrayList<BlogItem>();

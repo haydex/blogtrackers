@@ -21,7 +21,7 @@
         </activity>
         <activity
             android:name=".BlogDetailActivity"
-            android:label="@string/blog_detail_activity"
+            android:label="@string/title_item_detail"
             android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
